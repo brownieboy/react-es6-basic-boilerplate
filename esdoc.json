@@ -1,0 +1,6 @@
+{
+    "source": "./src",
+    "destination": "./docs/esdoc",
+    "index": "./README.md",
+    "title": "YASL React"
+}
